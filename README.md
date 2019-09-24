@@ -1,4 +1,4 @@
-## Vectorized NumPy code for Dynamic Relaxtion
+## A Vectorized NumPy code for Dynamic Relaxtion
 
 An educational code written by Shervin Azadi and Pirouz Nourian, NumPy operations explained by Kotryna Valeckaite
 
