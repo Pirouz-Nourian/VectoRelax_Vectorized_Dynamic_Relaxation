@@ -1,6 +1,6 @@
 ## Vectorized NumPy code for Dynamic Relaxtion
 
-An educational code initially written by Shervin Azadi and Pirouz Nourian, NumPy operations explained by Kotryna Valeckaite
+An educational code written by Shervin Azadi and Pirouz Nourian, NumPy operations explained by Kotryna Valeckaite
 
 This repository has been created as an educational resource for the course [EARTHY: Computational Design for Earth Architecture](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48987)
 
