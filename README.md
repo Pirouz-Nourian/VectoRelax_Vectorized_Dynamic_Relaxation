@@ -1,6 +1,6 @@
 ## Vectorized NumPy code for Dynamic Relaxtion
 
-Code written by Shervin Azadi and Pirouz Nourian
+An educational code initially written by Shervin Azadi and Pirouz Nourian, NumPy operations explained by Kotryna Valeckaite
 
 Based on the method explained in the slides available on this repository, after the two references found thanks to our colleague Dirk Rinze Visser:
 
