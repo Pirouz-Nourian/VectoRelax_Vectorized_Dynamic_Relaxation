@@ -59,7 +59,10 @@ while((differance>tolerance)and t<=MaximumIterations):#for t in range(MaximumIte
     EdgeForce = ((edgeLengths_t - restlength) * k)#.reshape((edgeCount,1))# f_{i,j} at the iteration time t, note that this is only the magnitude of these forces, i.e. |f_{i,j}=k\Delta l|  
     EdgeForceVectors=np.multiply(EdgeForce,np.divide(edgeVectors_t,edgeLengths_t))#EdgeForce*(edgeVectors_t/edgeLengths_t)
     xyz0 = xyz.copy()#previous positions
-    for e in range(edgeCount):# iterating throughout the edges, adding the force of each edge to the coresponding nodes     
+    
+    #S[edges[:,0]]-=EdgeForceVectors[:]
+    #S[edges[:,1]]+=EdgeForceVectors[:]
+    for e in range(edgeCount):# iterating throughout the edges, adding the force of each edge to the coresponding nodes 
         S[edges[e,0]] -= EdgeForceVectors[e]
         S[edges[e,1]] += EdgeForceVectors[e]
     R[freeIndices] = p[freeIndices] - S[freeIndices]
