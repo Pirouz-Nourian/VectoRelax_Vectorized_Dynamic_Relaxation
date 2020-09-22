@@ -1,6 +1,8 @@
 ## A Vectorized NumPy code for Dynamic Relaxtion
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4032767.svg)](https://doi.org/10.5281/zenodo.4032767)
+[![DOI](https://zenodo.org/badge/210559564.svg)](https://zenodo.org/badge/latestdoi/210559564)
+
+> > > > > > > ef2ff3aafffdaa3c6b543a995e893948655718ac
 
 Algorithms written by Shervin Azadi, Pirouz Nourian, Kotryna Valeckaite, and Puck Flickweert
 
