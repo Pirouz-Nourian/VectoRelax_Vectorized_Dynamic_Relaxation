@@ -1,4 +1,4 @@
-## A Vectorized NumPy code for Dynamic Relaxtion
+## VetoRelax: A Vectorized NumPy code for Dynamic Relaxtion
 
 [![DOI](https://zenodo.org/badge/210559564.svg)](https://zenodo.org/badge/latestdoi/210559564)
 
