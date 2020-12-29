@@ -8,7 +8,7 @@ This repository has been created as an educational resource for the course [EART
 
 The code is mainly inspired by and largely based on the [code samples generously shared by the Block Research Group in ETH Zurich, Prof. Philippe Block, Dr. Tom van Mele et al.](http://block.arch.ethz.ch/blog/2014/07/dynamic-relaxation/).
 
-Explained in [these slides](https://www.researchgate.net/publication/330425376_Dynamic_Relaxation_Force-Directed_Graph_Drawing) our methods is based on the following two references, found thanks to our colleague Ir. Dirk Rinze Visser:
+As explained in [these slides](https://www.researchgate.net/publication/330425376_Dynamic_Relaxation_Force-Directed_Graph_Drawing), our methods is based on the following two references, found thanks to our colleague Ir. Dirk Rinze Visser:
 
 Adriaenssens, S., P. Block, D. Veenendaal, and C. Williams (2014). Shell Structures for Architecture: Form Finding and Optimization. New York: Routledge.
 Chapter 2: Review of Dynamic Relaxation with an extension to six degrees of freedom theory by Adriaenssens, S.
