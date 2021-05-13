@@ -1,6 +1,7 @@
 ## VetoRelax: A Vectorized NumPy code for Dynamic Relaxtion
 
-[![DOI](https://zenodo.org/badge/210559564.svg)](https://zenodo.org/badge/latestdoi/210559564)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4041163.svg)](https://doi.org/10.5281/zenodo.4041163)
+
 
 Algorithms written by Shervin Azadi & Pirouz Nourian, with contributions from Kotryna Valeckaite, and Puck Flickweert
 
