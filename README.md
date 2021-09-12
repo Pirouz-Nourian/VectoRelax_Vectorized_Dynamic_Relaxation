@@ -2,8 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4041163.svg)](https://doi.org/10.5281/zenodo.4041163)
 
-
 Algorithms written by Shervin Azadi & Pirouz Nourian, with contributions from Kotryna Valeckaite, and Puck Flickweert
+
+![Icon]()
 
 This repository has been created as an educational resource for the course [EARTHY: Computational Design for Earth Architecture](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48987)
 
