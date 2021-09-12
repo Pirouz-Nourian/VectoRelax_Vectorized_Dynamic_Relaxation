@@ -4,7 +4,7 @@
 
 Algorithms written by Shervin Azadi & Pirouz Nourian, with contributions from Kotryna Valeckaite, and Puck Flickweert
 
-![Icon]()
+![Icon](vectoRelaxIcon_Cropped.png)
 
 This repository has been created as an educational resource for the course [EARTHY: Computational Design for Earth Architecture](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=48987)
 
